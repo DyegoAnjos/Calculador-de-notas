@@ -50,11 +50,7 @@ void escreverHistorico (int cont, FILE *notas){
 			}
 		fprintf(notas,"\n------------------------------\n");
 	}
-
-					
-	
 	fclose(notas);
-	return true;
 }
 
 int main(){
@@ -62,7 +58,7 @@ int main(){
 	char SouN;
 	FILE *notas;
 	
-	notas=fopen("Notas.txt", "r");
+	notas=fopen("Notas.txt", "a+");
 	if(notas== NULL){
 		printf("Erro [404] O arquivo não existe.");
 		system("pause");
@@ -96,6 +92,7 @@ int main(){
 						aluno[cont].falta=notaFaltante(cont);
 				
 				escreverHistorico(cont, notas);
+				
 				
 				printf("\nDeseja continuar? S/N");
 				SouN=toupper(getche());
