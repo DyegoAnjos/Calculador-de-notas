@@ -1,0 +1,71 @@
+Matéria: Port
+Nota do 1º Trimestre:6,2
+Nota Multiplicada:18,6
+Nota do 2º Trimestre:8,0
+Nota Multiplicada:24,0
+Media Atual:4,3
+Nota Faltante:1,7
+------------------------------
+Matéria: Ingles
+Nota do 1º Trimestre:6,5
+Nota Multiplicada:19,5
+Nota do 2º Trimestre:6,8
+Nota Multiplicada:20,4
+Media Atual:4,0
+Nota Faltante:2,0
+------------------------------
+Matéria: EduFis
+Nota do 1º Trimestre:9,4
+Nota Multiplicada:28,2
+Nota do 2º Trimestre:7,5
+Nota Multiplicada:22,5
+Media Atual:5,1
+------------------------------
+Matéria: Historia
+Nota do 1º Trimestre:5,0
+Nota Multiplicada:15,0
+Nota do 2º Trimestre:6,3
+Nota Multiplicada:18,9
+Media Atual:3,4
+Nota Faltante:2,6
+------------------------------
+Matéria: Filosofia
+Nota do 1º Trimestre:9,4
+Nota Multiplicada:28,2
+Nota do 2º Trimestre:8,5
+Nota Multiplicada:25,5
+Media Atual:5,4
+Parabéns você não está de PFV nessa matéria
+------------------------------
+Matéria: Sociologia
+Nota do 1º Trimestre:7,4
+Nota Multiplicada:22,2
+Nota do 2º Trimestre:5,8
+Nota Multiplicada:17,4
+Media Atual:4,0
+Nota Faltante:2,0
+------------------------------
+Matéria: Fisica
+Nota do 1º Trimestre:5,6
+Nota Multiplicada:16,8
+Nota do 2º Trimestre:5,2
+Nota Multiplicada:15,6
+Media Atual:3,2
+Nota Faltante:2,8
+------------------------------
+Matéria: Fisica
+Nota do 1º Trimestre:5,6
+Nota Multiplicada:16,8
+Nota do 2º Trimestre:5,2
+Nota Multiplicada:15,6
+Media Atual:3,2
+Nota Faltante:2,8
+------------------------------
+Matéria: Desenho
+Nota do 1º Trimestre:4,9
+Nota Multiplicada:14,7
+Nota do 2º Trimestre:6,7
+Nota Multiplicada:20,1
+Media Atual:3,5
+Nota Faltante:2,5
+------------------------------

@@ -1,0 +1,79 @@
+Matéria Port
+Nota do 1º Trimestre8,0
+Nota Multiplicada24,0
+Nota do 2º Trimestre8,0
+Nota Multiplicada24,0
+Media Atual4,8
+Nota Faltante1,2
+------------------------------
+Matéria Ingles
+Nota do 1º Trimestre6,3
+Nota Multiplicada18,9
+Nota do 2º Trimestre7,8
+Nota Multiplicada23,4
+Media Atual4,2
+Nota Faltante1,8
+------------------------------
+Matéria Edfis
+Nota do 1º Trimestre8,2
+Nota Multiplicada24,6
+Nota do 2º Trimestre8,4
+Nota Multiplicada25,2
+Media Atual5,0
+Nota Faltante1,0
+------------------------------
+Matéria Historia
+Nota do 1º Trimestre9,1
+Nota Multiplicada27,3
+Nota do 2º Trimestre7,1
+Nota Multiplicada21,3
+Media Atual4,9
+Nota Faltante1,1
+------------------------------
+Matéria Filosifia
+Nota do 1º Trimestre10,0
+Nota Multiplicada30,0
+Nota do 2º Trimestre8,3
+Nota Multiplicada24,9
+Media Atual5,5
+------------------------------
+Matéria Sociologia
+Nota do 1º Trimestre7,6
+Nota Multiplicada22,8
+Nota do 2º Trimestre6,9
+Nota Multiplicada20,7
+Media Atual4,3
+Nota Faltante1,7
+------------------------------
+Matéria Biologia
+Nota do 1º Trimestre5,0
+Nota Multiplicada15,0
+Nota do 2º Trimestre6,0
+Nota Multiplicada18,0
+Media Atual3,3
+Nota Faltante2,7
+------------------------------
+Matéria Fisica
+Nota do 1º Trimestre6,4
+Nota Multiplicada19,2
+Nota do 2º Trimestre5,2
+Nota Multiplicada15,6
+Media Atual3,5
+Nota Faltante2,5
+------------------------------
+Matéria Desenho
+Nota do 1º Trimestre6,5
+Nota Multiplicada19,5
+Nota do 2º Trimestre9,0
+Nota Multiplicada27,0
+Media Atual4,7
+Nota Faltante1,3
+------------------------------
+Matéria Quimica
+Nota do 1º Trimestre5,4
+Nota Multiplicada16,2
+Nota do 2º Trimestre7,2
+Nota Multiplicada21,6
+Media Atual3,8
+Nota Faltante2,2
+------------------------------
