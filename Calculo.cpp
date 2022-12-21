@@ -30,7 +30,8 @@ float mediaAtual(int i){
 }
 
 float notaFaltante (int i){
-	return (aluno[i].media-6)*-1;
+	aluno[i].media=(aluno[i].media-6)*-1;
+	return aluno[i].media;
 }
 
 void escreverHistorico (int cont, FILE *notas){
@@ -42,7 +43,7 @@ void escreverHistorico (int cont, FILE *notas){
 			fprintf(notas,"\nNota Multiplicada:%.1f",aluno[i].nota[j]*3);
 		}
 		fprintf(notas,"\nMedia Atual:%.1f",aluno[i].media);
-			if(aluno[i].media>5)
+			if(aluno[i].media>=6)
 				fprintf(notas,"\nParabéns você não está de PFV nessa matéria");
 					
 			else{
@@ -99,6 +100,7 @@ int main(){
 		
 				if(SouN == 'N') break;
 			break;}
+			
 			case 2:{
 				system("cls");
 				printf("::::::::::Médias::::::::::");
